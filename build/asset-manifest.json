@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ed67824.chunk.css",
+    "main.js": "/static/js/main.02998c9e.chunk.js",
+    "main.js.map": "/static/js/main.02998c9e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.42543a3e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.42543a3e.js.map",
+    "static/js/2.fee5c1d1.chunk.js": "/static/js/2.fee5c1d1.chunk.js",
+    "static/js/2.fee5c1d1.chunk.js.map": "/static/js/2.fee5c1d1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.903ddaffd10def639a0b507fb9b940b3.js": "/precache-manifest.903ddaffd10def639a0b507fb9b940b3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4ed67824.chunk.css.map": "/static/css/main.4ed67824.chunk.css.map",
+    "static/js/2.fee5c1d1.chunk.js.LICENSE.txt": "/static/js/2.fee5c1d1.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/static/media/Rectangle 1.32162f64.png",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42543a3e.js",
+    "static/js/2.fee5c1d1.chunk.js",
+    "static/css/main.4ed67824.chunk.css",
+    "static/js/main.02998c9e.chunk.js"
+  ]
+}
