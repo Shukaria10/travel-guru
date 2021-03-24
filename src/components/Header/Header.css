@@ -1,0 +1,42 @@
+#search-box {
+	border-radius: 10px;
+	padding: 5px 20px;
+}
+.navbar-nav a {
+	margin: 0 10px;
+	color: #fff !important;
+}
+.mainBtn {
+	padding: 5px 20px;
+	background-color: #f9a51a;
+	border-radius: 5px;
+	border: none;
+}
+.header-area {
+	background-color: transparent;
+}
+.navbar-brand {
+	filter: brightness(21.5);
+}
+.conditional-logo {
+	filter: brightness(0);
+}
+/* .conditional-nav a {
+	background-color: gray;
+	border-radius: 10px;
+	font-size: 14px;
+} */
+.profile {
+	color: #f9a51a;
+	font-size: 17px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.container-fluid {
+	width: 100%;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #343a40;
+}

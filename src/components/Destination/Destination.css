@@ -1,0 +1,48 @@
+.destination {
+	color: #fff;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.card {
+	height: 300px;
+	width: 280px;
+	overflow: hidden;
+	position: relative;
+	background-position: center;
+	background-size: cover;
+	background-color: transparent !important;
+}
+.card img {
+	width: 100%;
+	height: 100%;
+	border-radius: 10px;
+}
+.card-text {
+	position: absolute;
+	bottom: 8px;
+	left: 16px;
+}
+
+.card:hover {
+	border: 2px solid yellow;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.card-text a {
+	color: cyan;
+	text-decoration: none;
+}
+.rec.rec-arrow {
+	color: #f9a51a;
+}
+.rec.rec-arrow:hover {
+	background-color: #f9a51a;
+}
+
+.rec.rec-dot {
+	color: red;
+}
